@@ -3380,6 +3380,16 @@ nav ul a span.badge {
 
 .center, .center-align {
   text-align: center;
+
+}
+.centerAbout {
+  height: 40%;
+  width: 80%;
+  background-color: #FA8072;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: 'Indie Flower', cursive;
 }
 
 .left {
