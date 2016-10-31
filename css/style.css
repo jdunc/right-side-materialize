@@ -27,7 +27,16 @@ background-color: rgba(255,255, 255, 0.5);
 border-radius:50px;
 }
 .light{
-  
+  background-color: rgba(255,255, 255, 0.75);
+  box-shadow: 0px 0px 15px black;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+padding: 5px;
+font-family: 'Oswald', sans-serif;
+
+
+
 }
 #slogan{
   text-transform: uppercase;
