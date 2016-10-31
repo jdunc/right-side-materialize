@@ -13,16 +13,22 @@
 	font-size: inherit;
 }
 .nav-wrapper{
-  background-color: #1565C0;
+  /*background-color: rgba(109, 106, 104, .5);*/
+  z-index: 5;
 }
 .colorNav{
-  background-color: #1565C0;
+  background-color: rgba(109, 106, 104, .75);
 }
 #index-banner {
   /*background-image: url("../img/salt.jpg");*/
 
 }
-.container{
+body{
   background-image: url("../img/salt.jpg");
   background-repeat: repeat;
+  background-size: 100px 100px;
+}
+#first{
+  z-index: 4;
+  background-color: rgba(255, 255, 255, 0.25);
 }
