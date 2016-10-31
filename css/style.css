@@ -21,7 +21,16 @@
 }
 #index-banner {
   /*background-image: url("../img/salt.jpg");*/
-
+}
+#slogan{
+  text-transform: uppercase;
+  font-variant: small-caps;
+  font-family: 'Rock Salt', cursive;
+  font-size: 40px;
+  text-shadow: 1px 1px red;
+}
+#slogan-2{
+  
 }
 body{
   background-image: url("../img/salt.jpg");
