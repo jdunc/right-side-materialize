@@ -19,5 +19,10 @@
   background-color: #1565C0;
 }
 #index-banner {
-  background-image: url("../img/hero.jpg");
+  /*background-image: url("../img/salt.jpg");*/
+
+}
+.container{
+  background-image: url("../img/salt.jpg");
+  background-repeat: repeat;
 }
